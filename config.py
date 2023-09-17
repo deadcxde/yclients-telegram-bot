@@ -1,1 +1,1 @@
-token = '5882712225:AAH83ZkTmHpHMHImEBTi1kUSKSXDd9jf9e4'
+token = '' # Токен бота из @BotFather
